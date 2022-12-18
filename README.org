@@ -1,0 +1,2 @@
+Repositories that were created before Sep 08 '23 will not be updated and will be
+archived eventually. My personal projects are maintained on sourcehut: https://sr.ht/~lr0.
